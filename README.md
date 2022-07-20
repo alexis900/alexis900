@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+🔭🌱 I'm a system administrator who learns multiple programming languages from Python, PowerShell, and more.
 
 <!--
 **alexis900/alexis900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
