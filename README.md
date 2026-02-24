@@ -1,18 +1,14 @@
-# Hi there 👋
+# 👋 Hola, soy Alejandro Martín Pérez
 
-🔭🌱 I'm a system administrator who learns multiple programming languages from Bash, Python, PowerShell, and more.
+Soy **System Administrator** enfocado en **infraestructura, automatización y sistemas self-hosted**, y también estudiante de **tecnologías web**.
 
-<!--
-**alexis900/alexis900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Qué sé hacer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Administración de sistemas Linux (Debian)
+- Virtualización con Proxmox
+- Contenedores con Docker / Docker Compose
+- Scripting en Bash, Python y PowerShell
+- Backups y restore de servicios críticos
+- Infraestructura self-hosted (homelab)
